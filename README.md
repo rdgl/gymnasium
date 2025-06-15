@@ -18,7 +18,7 @@ from project directory run
 pyenv activate openai_gym
 ```
 
-#  Clone and run
+#  Clone and run (for mountain car)
 
 clone
 ```
